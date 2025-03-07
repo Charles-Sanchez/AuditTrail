@@ -1,7 +1,7 @@
 # AuditTrail
-    AuditTrail is a project developed as part of a Database Management Systems course during the second semester of the user's second year. This project integrates MySQL as the database management system and Visual Basic as the front-end application to provide a comprehensive expense tracking solution.
+AuditTrail is a project developed as part of a Database Management Systems course during the second semester of the user's second year. This project integrates MySQL as the database management system and Visual Basic as the front-end application to provide a comprehensive expense tracking solution.
     
-   The primary objective of AuditTrail is to assist Angelito Sanchez, a foreman on a construction site, in managing and monitoring financial transactions efficiently. Given the dynamic nature of construction work, where multiple expenses such as labor wages, material procurement, and operational costs are incurred daily, AuditTrail aims to streamline record-keeping and ensure accurate financial oversight. 
+The primary objective of AuditTrail is to assist Angelito Sanchez, a foreman on a construction site, in managing and monitoring financial transactions efficiently. Given the dynamic nature of construction work, where multiple expenses such as labor wages, material procurement, and operational costs are incurred daily, AuditTrail aims to streamline record-keeping and ensure accurate financial oversight. 
 
    
     Key features of AuditTrail include:  
