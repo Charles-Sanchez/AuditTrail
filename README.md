@@ -26,4 +26,11 @@ Here are a few snaps of the application.
 ![snap1](img1.png)  
 
 ![snap2](img2.png)
+
+**License & Attribution**  
+This project is released under the following conditions:
+
+- Proper Attribution: If you use, modify, or distribute this code, you must give appropriate credit to the original developers.
+- No Unauthorized Claiming: You may not claim the project as your own or remove credits from the source code.
+- Non-Commercial Use: This project is intended for educational and personal use. Commercial use requires explicit permission from the developers.
     
