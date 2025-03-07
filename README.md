@@ -26,4 +26,8 @@ The primary objective of AuditTrail is to assist Angelito Sanchez, a foreman on 
     Joaquin Manalo: Worked on the MySQL backend, managing data storage and retrieval efficiently.
     
     This collaborative effort ensured that AuditTrail became a reliable and well-structured expense tracking system tailored for its intended user, Angelito Sanchez.
+
+Here are a few snaps of the application.
+![snap1](img1.png)
+![snap2](img2.png)
     
